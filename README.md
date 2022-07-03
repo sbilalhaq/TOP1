@@ -1,0 +1,1 @@
+Created a tgw between two vpcs and used the default route table. Tested connectivity by deploying two instances in each vpc. Created an igw and edited the security groups and route tables to allow connectivity.
